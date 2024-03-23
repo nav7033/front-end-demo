@@ -1,0 +1,15 @@
+.resizeableStyle{
+   height: 100vh;
+   display: flex;
+   flex-direction: column; 
+}
+.compOneAndTwo{
+    display: flex;
+    flex: 0  0 auto;
+
+}
+.component{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+}
